@@ -40,7 +40,7 @@
 ![测试配图.png](https://i.loli.net/2021/11/25/iFx6lOhDtMGLuWv.png "配图")
 
 
-##在文章中插入特定的代码段
+## 在文章中插入特定的代码段
 
 ```c
 #include <stdio.h>
