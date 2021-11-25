@@ -38,3 +38,31 @@
 [2]:https://git-scm.com/downloads "Git官方下载入口"
 
 ![测试配图.png](https://i.loli.net/2021/11/25/iFx6lOhDtMGLuWv.png "配图")
+
+
+##在文章中插入特定的代码段
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+int main(void)
+{
+	printf("c 语言测试代码...\n");
+	return 0;
+}
+```
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main(void)
+{
+	cout<<"测试数据"<<endl;
+	return 0;
+
+}
+```
+
