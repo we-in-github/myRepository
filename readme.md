@@ -6,7 +6,9 @@
 ###### 六级标题
 
 *斜体特效*
+
 **粗体特效**
+
 ***粗斜体特效***
 
 普通的介绍说明，其中凸显`关键字`
@@ -29,6 +31,7 @@
 >>>> 四级文本引用
 
 我们可以将所以的工程项目打包上传到[GitHub](https://www.github.com "GitHub官方网站")进行托管,开发者可以下载[Git](https://git-scm.com/downloads "Git官方下载入口")
+
 我们可以将所以的工程项目打包上传到[GitHub][1]进行托管,开发者可以下载[Git][2]
 [1]:https://www.github.com "GitHub官方网站"
 [2]:https://git-scm.com/downloads "Git官方下载入口"
