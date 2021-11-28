@@ -66,3 +66,18 @@ int main(void)
 }
 ```
 
+```java
+import until
+public class demo
+{
+
+
+
+	public static void main(String[] avgs)
+	{
+		System.out.println("hello world");
+	
+	}
+
+}
+```
