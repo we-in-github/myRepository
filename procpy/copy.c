@@ -9,7 +9,7 @@ int main(int argc,char ** argv)
 	bzero(buffer, sizeof(buffer));
 
 	int sfd = open(argv[1], O_RDONLY);
-	int dfd = open(argv[2], O_WRONLY|O_CREAT|0664);
+	int dfd = open(argv[2], O_WRONLY|O_CREAT, 0664);
 	
 	lseek(sfd, pos, SEEK_SET);
 	lseek(dfd, pos, SEEK_SET);
